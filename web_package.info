@@ -1,0 +1,5 @@
+name = "BBQ for Arrays"
+description = "Extends jQuery BBQ so that you can push states onto arrays."
+version = "0.0.1"
+author = Aaron Klump <sourcecode@intheloftstudios.com>
+homepage = "http://www.intheloftstudios.com/packages/js/bbq_array"
