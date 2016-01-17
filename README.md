@@ -5,7 +5,7 @@ The is an extension to  [jQuery BBQ](http://benalman.com/projects/jquery-bbq-plu
 ## How to use
 This is an example of how to use, give the following url:
 
-        index.php#foo[0]=bar&foo[1]=baz
+        index.php#foo[]=bar&foo[]=baz
 
 To remove `baz` do this:
 
@@ -23,7 +23,7 @@ If you call the same twice, it will NOT result in two new values being added
         
 Will result in this url:
 
-        index.php#foo[0]=qux
+        index.php#foo[]=qux
 
 ## Contact
 * **In the Loft Studios**
