@@ -36,9 +36,7 @@
     var state = $.bbq.getState(key) || [];
 
     // Determine if the value is already present in the array.
-    var pos = state.findIndex(function (element) {
-      return element === value;
-    });
+    var pos = $.inArray(value, state);
 
     // If it's not present then we'll add it and push the entire array as the new state.
     var update = {};
