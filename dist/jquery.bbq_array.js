@@ -1,5 +1,5 @@
 /**
- * BBQ for Arrays jQuery Plugin v1.0.4
+ * BBQ for Arrays jQuery Plugin v1.0.5
  * http://www.intheloftstudios.com/packages/js/bbq_array
  *
  * Extends jQuery BBQ so that you can push states onto arrays.
@@ -7,7 +7,7 @@
  * Copyright 2016, Aaron Klump <sourcecode@intheloftstudios.com>
  * @license Dual licensed under the MIT or GPL Version 2 licenses.
  *
- * Date: Thu Jul 14 11:35:37 PDT 2016
+ * Date: Thu Jul 14 12:06:20 PDT 2016
  *
  * @see http://benalman.com/projects/jquery-bbq-plugin/
  */
