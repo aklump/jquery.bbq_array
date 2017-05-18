@@ -1,13 +1,13 @@
 /**
- * BBQ for Arrays jQuery Plugin v1.0.5
+ * BBQ for Arrays jQuery Plugin v1.0.6
  * http://www.intheloftstudios.com/packages/js/bbq_array
  *
  * Extends jQuery BBQ so that you can push states onto arrays.
  *
- * Copyright 2016, Aaron Klump <sourcecode@intheloftstudios.com>
+ * Copyright 2016-2017, Aaron Klump <sourcecode@intheloftstudios.com>
  * @license Dual licensed under the MIT or GPL Version 2 licenses.
  *
- * Date: Thu Jul 14 12:06:20 PDT 2016
+ * Date: Thu May 18 10:21:46 PDT 2017
  *
  * @see http://benalman.com/projects/jquery-bbq-plugin/
  */
@@ -22,7 +22,7 @@
  * To set qux as a value in foo:
  *    $.bbq.setArrayState('foo', 'qux');*
  */
-;(function ($,window) {
+;(function ($) {
   "use strict";
 
   /**
@@ -61,4 +61,4 @@
     setStateOfArray('remove', key, value);
   };
 
-})(jQuery,this);
+})(jQuery);
