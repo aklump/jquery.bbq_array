@@ -4,10 +4,10 @@
  *
  * Extends jQuery BBQ so that you can push states onto arrays.
  *
- * Copyright 2016, Aaron Klump <sourcecode@intheloftstudios.com>
+ * Copyright 2016-2017, Aaron Klump <sourcecode@intheloftstudios.com>
  * @license Dual licensed under the MIT or GPL Version 2 licenses.
  *
- * Date: Thu Jul 14 20:09:51 PDT 2016
+ * Date: Thu May 18 10:21:46 PDT 2017
  *
  * @see http://benalman.com/projects/jquery-bbq-plugin/
  */
